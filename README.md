@@ -5,7 +5,6 @@
 
 #### CNN-based method for blotches and scratches detection in archived videos [[pdf]]
 - HamzaYousa AminaSerira SofianeYousb *JVCIR 2019*
-  - 
 
 #### A comparison of quality control methods for scratch detection on polished metal surfaces.
 - Karlis AgrisGross JanisLungevics JurisZavickisLienePluduma *Measurement 2018*
